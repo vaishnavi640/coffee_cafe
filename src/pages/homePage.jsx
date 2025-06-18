@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './Homepage.css';
+import './homepage.css';
 
 // Menu Data
 const coffeeMenu = [
