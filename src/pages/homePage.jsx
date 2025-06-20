@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './homepage.css';
+import './homePage.css';
 
 // Corrected Imports for Images
 import food1 from '../assets/food1.jpg';
