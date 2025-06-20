@@ -104,7 +104,7 @@ const About = () => (
     <div className="container mx-auto px-4 text-center text-white">
       <h2 className="text-3xl md:text-4xl font-bold mb-8">About Us</h2>
       <p className="text-lg max-w-3xl mx-auto">
-        Founded in 2020, Bennitos Cafe is committed to serving the highest quality food and beverages.
+        Founded in 2024, Bennitos Cafe is committed to serving the highest quality food and beverages.
         Our team is passionate about freshness, flavor, and community.
       </p>
     </div>
@@ -154,7 +154,7 @@ const Footer = () => (
       </div>
     </div>
     <div className="text-center mt-6 border-t border-amber-700 pt-4">
-      <p>&copy; 2025 Bennitos Cafe. All rights reserved.</p>
+      <p>&copy; 2024 Bennitos Cafe. All rights reserved.</p>
     </div>
   </footer>
 );
