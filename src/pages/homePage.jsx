@@ -64,7 +64,7 @@ const Hero = () => (
     style={{ backgroundImage: `url('/bennetios.jpg')` }}
   >
     {/* Add a gradient overlay */}
-    <div className="absolute inset-0 bg-gradient-to-b from-black/25 via-black/25 to-black/25"></div>
+    <div className="absolute inset-0 bg-gradient-to-b from-black/25 via-black/25 to-black/25`1"></div>
     <div className="relative text-center text-white py-16">
       <div className="container mx-auto px-4">
         <h2 className="text-4xl md:text-5xl font-bold mb-4">Welcome to The Bennitos Cafe</h2>
